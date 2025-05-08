@@ -1,6 +1,6 @@
 export default {
   name: "bolt-expo-nativewind",
-  slug: "bolt-expo-nativewind",
+  slug: "lumiiv2",
   version: "1.0.0",
   orientation: "portrait",
   icon: "./assets/images/icon.png",
