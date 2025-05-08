@@ -38,7 +38,7 @@ export default {
       origin: false
     },
     eas: {
-      projectId: "dd8c12cc-3f96-46fb-besf-89180a3b84e6" // ✅ From your screenshot
+      projectId: "dd8c12cc-3f96-46fb-be5f-89180a3b84e6" // ✅ From your screenshot
     }
   },
   owner: "jovansaldana21" // ✅ Your Expo username
